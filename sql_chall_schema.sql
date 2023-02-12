@@ -65,5 +65,3 @@ CREATE TABLE salaries (
 		FOREIGN KEY (emp_no)
 			REFERENCES employees(emp_no)
 );
-
-select * from departments
