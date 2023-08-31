@@ -1,4 +1,4 @@
-# sql-challenge
+# sql-employees
 **Directive:**
 
 This project uses mock data to conduct a research project about people employed with a company during the 1980s and 1990s from 6 CSV files (located in the data folder). To use this code, run the sql_chall_schema.sql in pgAdmin, import the CSV files, then run challenge_queries.sql for the data analysis. 
